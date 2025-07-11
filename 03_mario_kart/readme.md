@@ -37,7 +37,7 @@
 ## 🧩 Regras & Mecânicas
 
 ### 🎯 Objetivo
-Duas personagens são sorteadas aleatoriamente para disputar uma corrida com até **10 rodadas**. Em cada rodada, ocorre um tipo de bloco de pista aleatório, e os jogadores somam um dado de 6 lados com seus atributos para competir por pontos.
+Dois personagens são sorteadas aleatoriamente para disputar uma corrida com até **10 rodadas**. Em cada rodada, ocorre um tipo de bloco de pista aleatório, e os jogadores somam um dado de 6 lados com seus atributos para competir por pontos.
 
 ### 📍 Tipos de Bloco de Pista
 
